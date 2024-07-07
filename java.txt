@@ -1,0 +1,3 @@
+-> git tag -d tagname : Used to delete tag.
+-> git push origin --tag : Push the tag to remote repo.
+-> git checkout tag : Used to switch to the different tag.
