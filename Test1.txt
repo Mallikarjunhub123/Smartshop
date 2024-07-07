@@ -3,10 +3,6 @@ Branching strategy
 -> Devlopers creates feature branch for thier own purpose and merge it to the dev branch.
 -> DevOps team creates release branch and merge them to the dev branch.
 -> Developers can pull the changes from master branch but they cannot push the changes to the master.
-
-
-Branch :
-
+Branch 
 -> Branch is used for parallel development.
 -> If two people/two teams working on a same piece of code on two differnt branches., then later we can integrate by merging.
-   syn : git branch : Used to list the branches and to see on which branch we are working.
