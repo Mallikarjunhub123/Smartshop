@@ -10,3 +10,9 @@ Branch :
 -> Branch is used for parallel development.
 -> If two people/two teams working on a same piece of code on two differnt branches., then later we can integrate by merging.
    syn : git branch : Used to list the branches and to see on which branch we are working.
+
+Branch :
+
+-> Branch is used for parallel development.
+-> If two people/two teams working on a same piece of code on two differnt branches., then later we can integrate by merging.
+   syn : git branch : Used to list the branches and to see on which branch we are working
